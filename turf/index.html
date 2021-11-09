@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The Freeze</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+</head>
+
+
+
+<!-- leaflet js -->
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+<script src="data/texas-counties.js"></script>
+<script src="data/peak.json"></script>
+
+<script>
+    <body>
+        <div id='myMap' style='width: 1000px; height: 700px;'></div>
+        
+
+        // Map initialization
+        var map = L.map('map').setView([31.4499, -98.5709], 6);
+
+        // osm layer
+        var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        });
+        osm.addTo(map)
+
+        d3.json("static/data/Texas_County_Boundaries_Detailed.geojson")
+        function get_county_data(){
+            countyData = {}
+            var texasCounties = L.geoJson(texas_counties, {
+                onEachFeature: function(features, layer){
+                    smooth = turf.soomth(feature)
+                    console.log(area, 'area')
+                }
+        });
+        var temp = L.json(peak_temp);
+
+        texasCounties.addTo(map)
+
+        baseLayer = {
+        'OSM': osm
+        }
+
+        boundaryLayers = {
+            "Texas Counties": texasCounties
+        }
+
+        L.control.layers(baseLayer, boundaryLayers, {collapsed:false}).addTo(map)
+
+    </body>
+</script>
+
+</html>

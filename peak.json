@@ -1,0 +1,3940 @@
+[{
+    "_id": {
+      "$oid": "61834865d1d87f2268d409ff"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Briscoe",
+    "FullFIPSid": "48045",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 398,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d40af0"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Brooks",
+    "FullFIPSid": "48047",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4278,
+    "OutageCountMAX": 201,
+    "OutageCountAVG": 201
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d40be1"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Brown",
+    "FullFIPSid": "48049",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 899,
+    "OutageCountMAX": 4,
+    "OutageCountAVG": 4
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d41278"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Coleman",
+    "FullFIPSid": "48083",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 947,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d41369"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Colorado",
+    "FullFIPSid": "48089",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5383,
+    "OutageCountMAX": 683,
+    "OutageCountAVG": 244
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d4145a"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Concho",
+    "FullFIPSid": "48095",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1079,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d41af1"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Duval",
+    "FullFIPSid": "48131",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6771,
+    "OutageCountMAX": 182,
+    "OutageCountAVG": 181
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d42188"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Gonzales",
+    "FullFIPSid": "48177",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1716,
+    "OutageCountMAX": 193,
+    "OutageCountAVG": 193
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d4272e"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Irion",
+    "FullFIPSid": "48235",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1154,
+    "OutageCountMAX": 588,
+    "OutageCountAVG": 588
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d4281f"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Jackson",
+    "FullFIPSid": "48239",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4674,
+    "OutageCountMAX": 1043,
+    "OutageCountAVG": 1019
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d42cd4"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Karnes",
+    "FullFIPSid": "48255",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4919,
+    "OutageCountMAX": 399,
+    "OutageCountAVG": 399
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d42dc5"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Kenedy",
+    "FullFIPSid": "48261",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 96,
+    "OutageCountMAX": 8,
+    "OutageCountAVG": 8
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d43098"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Kinney",
+    "FullFIPSid": "48271",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1096,
+    "OutageCountMAX": 1039,
+    "OutageCountAVG": 1039
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d4345c"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Live Oak",
+    "FullFIPSid": "48297",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5387,
+    "OutageCountMAX": 714,
+    "OutageCountAVG": 714
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d4354d"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Mason",
+    "FullFIPSid": "48319",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d43eb7"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Pecos",
+    "FullFIPSid": "48371",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1767,
+    "OutageCountMAX": 4,
+    "OutageCountAVG": 4
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d44099"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Reagan",
+    "FullFIPSid": "48383",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2173,
+    "OutageCountMAX": 100,
+    "OutageCountAVG": 100
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d4418a"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Real",
+    "FullFIPSid": "48385",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1028,
+    "OutageCountMAX": 832,
+    "OutageCountAVG": 832
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d4427b"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Reeves",
+    "FullFIPSid": "48389",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1063,
+    "OutageCountMAX": 19,
+    "OutageCountAVG": 19
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d4445d"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Runnels",
+    "FullFIPSid": "48399",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4820,
+    "OutageCountMAX": 4,
+    "OutageCountAVG": 4
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d4454e"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "San Patricio",
+    "FullFIPSid": "48409",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 31461,
+    "OutageCountMAX": 3959,
+    "OutageCountAVG": 3951
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d44730"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Shackelford",
+    "FullFIPSid": "48417",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2441,
+    "OutageCountMAX": 14,
+    "OutageCountAVG": 14
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d44a03"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Sterling",
+    "FullFIPSid": "48431",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 769,
+    "OutageCountMAX": 4,
+    "OutageCountAVG": 4
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d44af4"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Stonewall",
+    "FullFIPSid": "48433",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 885,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834865d1d87f2268d44fa9"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Upton",
+    "FullFIPSid": "48461",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2608,
+    "OutageCountMAX": 36,
+    "OutageCountAVG": 36
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4509a"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Uvalde",
+    "FullFIPSid": "48463",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 10364,
+    "OutageCountMAX": 698,
+    "OutageCountAVG": 697
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4527c"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Victoria",
+    "FullFIPSid": "48469",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 30532,
+    "OutageCountMAX": 2949,
+    "OutageCountAVG": 2890
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4545e"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Wharton",
+    "FullFIPSid": "48481",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5591,
+    "OutageCountMAX": 244,
+    "OutageCountAVG": 239
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d45731"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Wilson",
+    "FullFIPSid": "48493",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 29,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d45822"
+    },
+    "UtilityName": "American Electric Power Texas",
+    "CountyName": "Zapata",
+    "FullFIPSid": "48505",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5849,
+    "OutageCountMAX": 3203,
+    "OutageCountAVG": 3203
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d45a04"
+    },
+    "UtilityName": "Austin Energy",
+    "CountyName": "Bastrop",
+    "FullFIPSid": "48021",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 0,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d45cd7"
+    },
+    "UtilityName": "Austin Energy",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 31,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d45eb9"
+    },
+    "UtilityName": "Bandera Electric Cooperative",
+    "CountyName": "Bandera",
+    "FullFIPSid": "48019",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 15954,
+    "OutageCountMAX": 354,
+    "OutageCountAVG": 354
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4609b"
+    },
+    "UtilityName": "Bandera Electric Cooperative",
+    "CountyName": "Kendall",
+    "FullFIPSid": "48259",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 10722,
+    "OutageCountMAX": 1043,
+    "OutageCountAVG": 1026
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4618c"
+    },
+    "UtilityName": "Bandera Electric Cooperative",
+    "CountyName": "Kerr",
+    "FullFIPSid": "48265",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4279,
+    "OutageCountMAX": 921,
+    "OutageCountAVG": 919
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4636e"
+    },
+    "UtilityName": "Bandera Electric Cooperative",
+    "CountyName": "Real",
+    "FullFIPSid": "48385",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2573,
+    "OutageCountMAX": 64,
+    "OutageCountAVG": 64
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4645f"
+    },
+    "UtilityName": "Bandera Electric Cooperative",
+    "CountyName": "Uvalde",
+    "FullFIPSid": "48463",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2235,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d46641"
+    },
+    "UtilityName": "Bluebonnet Electric Cooperative",
+    "CountyName": "Bastrop",
+    "FullFIPSid": "48021",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 53242,
+    "OutageCountMAX": 24,
+    "OutageCountAVG": 21
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d46732"
+    },
+    "UtilityName": "Bluebonnet Electric Cooperative",
+    "CountyName": "Brazos",
+    "FullFIPSid": "48041",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 104,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d46a05"
+    },
+    "UtilityName": "Bluebonnet Electric Cooperative",
+    "CountyName": "Colorado",
+    "FullFIPSid": "48089",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 197,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d46be7"
+    },
+    "UtilityName": "Bluebonnet Electric Cooperative",
+    "CountyName": "Gonzales",
+    "FullFIPSid": "48177",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 112,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d46cd8"
+    },
+    "UtilityName": "Bluebonnet Electric Cooperative",
+    "CountyName": "Grimes",
+    "FullFIPSid": "48185",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4736f"
+    },
+    "UtilityName": "Bluebonnet Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 22628,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d47733"
+    },
+    "UtilityName": "Bowie-Cass Electric Cooperative",
+    "CountyName": "Bowie",
+    "FullFIPSid": "48037",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6125,
+    "OutageCountMAX": 13,
+    "OutageCountAVG": 8
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d47915"
+    },
+    "UtilityName": "Bowie-Cass Electric Cooperative",
+    "CountyName": "Franklin",
+    "FullFIPSid": "48159",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 118,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d47be8"
+    },
+    "UtilityName": "Bowie-Cass Electric Cooperative",
+    "CountyName": "Titus",
+    "FullFIPSid": "48449",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5706,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d47cd9"
+    },
+    "UtilityName": "Bowie-Cass Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d47dca"
+    },
+    "UtilityName": "Bryan Texas Utilities",
+    "CountyName": "Brazos",
+    "FullFIPSid": "48041",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 27610,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4809d"
+    },
+    "UtilityName": "Bryan Texas Utilities",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 11945,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d48461"
+    },
+    "UtilityName": "CenterPoint Energy",
+    "CountyName": "Colorado",
+    "FullFIPSid": "48089",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 30855,
+    "OutageCountMAX": 891,
+    "OutageCountAVG": 815
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d48a07"
+    },
+    "UtilityName": "CenterPoint Energy",
+    "CountyName": "Montgomery",
+    "FullFIPSid": "48339",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 79074,
+    "OutageCountMAX": 2577,
+    "OutageCountAVG": 1962
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d48ebc"
+    },
+    "UtilityName": "Central Texas Electric Cooperative",
+    "CountyName": "Kendall",
+    "FullFIPSid": "48259",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2072,
+    "OutageCountMAX": 669,
+    "OutageCountAVG": 666
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d48fad"
+    },
+    "UtilityName": "Central Texas Electric Cooperative",
+    "CountyName": "Kerr",
+    "FullFIPSid": "48265",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5691,
+    "OutageCountMAX": 3262,
+    "OutageCountAVG": 3262
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d49280"
+    },
+    "UtilityName": "Central Texas Electric Cooperative",
+    "CountyName": "Mason",
+    "FullFIPSid": "48319",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3549,
+    "OutageCountMAX": 3014,
+    "OutageCountAVG": 3014
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d49553"
+    },
+    "UtilityName": "Central Texas Electric Cooperative",
+    "CountyName": "Real",
+    "FullFIPSid": "48385",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 943,
+    "OutageCountMAX": 27,
+    "OutageCountAVG": 27
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d49644"
+    },
+    "UtilityName": "Central Texas Electric Cooperative",
+    "CountyName": "San Saba",
+    "FullFIPSid": "48411",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1141,
+    "OutageCountMAX": 269,
+    "OutageCountAVG": 188
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d49af9"
+    },
+    "UtilityName": "Cherokee County ECA",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 50,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d49b8e"
+    },
+    "UtilityName": "College Station Utilities",
+    "CountyName": "Brazos",
+    "FullFIPSid": "48041",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 22034,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d49c7f"
+    },
+    "UtilityName": "College Station Utilities",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1465,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d49d70"
+    },
+    "UtilityName": "Comanche Electric Cooperative Association",
+    "CountyName": "Brown",
+    "FullFIPSid": "48049",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6698,
+    "OutageCountMAX": 446,
+    "OutageCountAVG": 223
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4a0a9"
+    },
+    "UtilityName": "Comanche Electric Cooperative Association",
+    "CountyName": "Hamilton",
+    "FullFIPSid": "48193",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4a19a"
+    },
+    "UtilityName": "Comanche Electric Cooperative Association",
+    "CountyName": "Mills",
+    "FullFIPSid": "48333",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 953,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4a28b"
+    },
+    "UtilityName": "Comanche Electric Cooperative Association",
+    "CountyName": "Shackelford",
+    "FullFIPSid": "48417",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 393,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4a3fb"
+    },
+    "UtilityName": "Comanche Electric Cooperative Association",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1297,
+    "OutageCountMAX": 99,
+    "OutageCountAVG": 16
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4a5dd"
+    },
+    "UtilityName": "Concho Valley Electric Cooperative",
+    "CountyName": "Concho",
+    "FullFIPSid": "48095",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 668,
+    "OutageCountMAX": 4,
+    "OutageCountAVG": 4
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4a7bf"
+    },
+    "UtilityName": "Concho Valley Electric Cooperative",
+    "CountyName": "Irion",
+    "FullFIPSid": "48235",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1458,
+    "OutageCountMAX": 112,
+    "OutageCountAVG": 108
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4aa92"
+    },
+    "UtilityName": "Concho Valley Electric Cooperative",
+    "CountyName": "Reagan",
+    "FullFIPSid": "48383",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 59,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4ab83"
+    },
+    "UtilityName": "Concho Valley Electric Cooperative",
+    "CountyName": "Runnels",
+    "FullFIPSid": "48399",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 26,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4ad65"
+    },
+    "UtilityName": "Concho Valley Electric Cooperative",
+    "CountyName": "Sterling",
+    "FullFIPSid": "48431",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1041,
+    "OutageCountMAX": 42,
+    "OutageCountAVG": 41
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4af47"
+    },
+    "UtilityName": "CoServ Electric",
+    "CountyName": "Collin",
+    "FullFIPSid": "48085",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 82541,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4b129"
+    },
+    "UtilityName": "CoServ Electric",
+    "CountyName": "Dallas",
+    "FullFIPSid": "48113",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4b7c0"
+    },
+    "UtilityName": "CPS Energy",
+    "CountyName": "Bandera",
+    "FullFIPSid": "48019",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 14,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834866d1d87f2268d4bb84"
+    },
+    "UtilityName": "CPS Energy",
+    "CountyName": "Kendall",
+    "FullFIPSid": "48259",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 35,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4bd66"
+    },
+    "UtilityName": "CPS Energy",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1752,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4be57"
+    },
+    "UtilityName": "CPS Energy",
+    "CountyName": "Wilson",
+    "FullFIPSid": "48493",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4c8b2"
+    },
+    "UtilityName": "El Paso Electric",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4029,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4c9a3"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Brazos",
+    "FullFIPSid": "48041",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 129,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4cd67"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Galveston",
+    "FullFIPSid": "48167",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5615,
+    "OutageCountMAX": 804,
+    "OutageCountAVG": 689
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4ce58"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Grimes",
+    "FullFIPSid": "48185",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8705,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4d03a"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Harris",
+    "FullFIPSid": "48201",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3327,
+    "OutageCountMAX": 143,
+    "OutageCountAVG": 80
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4d12b"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Houston",
+    "FullFIPSid": "48225",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4d21c"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Jasper",
+    "FullFIPSid": "48241",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 26,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4d5e0"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Limestone",
+    "FullFIPSid": "48293",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 478,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4df4a"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Tyler",
+    "FullFIPSid": "48457",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6891,
+    "OutageCountMAX": 64,
+    "OutageCountAVG": 63
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4e03b"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 23,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4e12c"
+    },
+    "UtilityName": "Entergy",
+    "CountyName": "Walker",
+    "FullFIPSid": "48471",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 21105,
+    "OutageCountMAX": 1609,
+    "OutageCountAVG": 1474
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4e3ff"
+    },
+    "UtilityName": "Fannin County Electric Cooperative",
+    "CountyName": "Fannin",
+    "FullFIPSid": "48147",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 11069,
+    "OutageCountMAX": 3,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4e4f0"
+    },
+    "UtilityName": "Farmers Electric Cooperative",
+    "CountyName": "Collin",
+    "FullFIPSid": "48085",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 28462,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4e5e1"
+    },
+    "UtilityName": "Farmers Electric Cooperative",
+    "CountyName": "Dallas",
+    "FullFIPSid": "48113",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1174,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4e6d2"
+    },
+    "UtilityName": "Farmers Electric Cooperative",
+    "CountyName": "Delta",
+    "FullFIPSid": "48119",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1039,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4e7c3"
+    },
+    "UtilityName": "Farmers Electric Cooperative",
+    "CountyName": "Fannin",
+    "FullFIPSid": "48147",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 52,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4e8b4"
+    },
+    "UtilityName": "Farmers Electric Cooperative",
+    "CountyName": "Franklin",
+    "FullFIPSid": "48159",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 533,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4ee5a"
+    },
+    "UtilityName": "Farmers Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3663,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4ef4b"
+    },
+    "UtilityName": "Farmers Electric Cooperative",
+    "CountyName": "Van Zandt",
+    "FullFIPSid": "48467",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4f12d"
+    },
+    "UtilityName": "Floresville Electric Light and Power System",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 15908,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4f194"
+    },
+    "UtilityName": "Floresville Electric Light and Power System",
+    "CountyName": "Wilson",
+    "FullFIPSid": "48493",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4f285"
+    },
+    "UtilityName": "Garland Power & Light",
+    "CountyName": "Dallas",
+    "FullFIPSid": "48113",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 69000,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d4f376"
+    },
+    "UtilityName": "Grayson-Collin Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 64023,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d50195"
+    },
+    "UtilityName": "Guadalupe Valley Electric Cooperative",
+    "CountyName": "Gonzales",
+    "FullFIPSid": "48177",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 12837,
+    "OutageCountMAX": 299,
+    "OutageCountAVG": 298
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d50468"
+    },
+    "UtilityName": "Guadalupe Valley Electric Cooperative",
+    "CountyName": "Jackson",
+    "FullFIPSid": "48239",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 10,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d50559"
+    },
+    "UtilityName": "Guadalupe Valley Electric Cooperative",
+    "CountyName": "Karnes",
+    "FullFIPSid": "48255",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 342,
+    "OutageCountMAX": 6,
+    "OutageCountAVG": 6
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d5073b"
+    },
+    "UtilityName": "Guadalupe Valley Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 17,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d5082c"
+    },
+    "UtilityName": "Guadalupe Valley Electric Cooperative",
+    "CountyName": "Victoria",
+    "FullFIPSid": "48469",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 228,
+    "OutageCountMAX": 77,
+    "OutageCountAVG": 77
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d5091d"
+    },
+    "UtilityName": "Guadalupe Valley Electric Cooperative",
+    "CountyName": "Wilson",
+    "FullFIPSid": "48493",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8343,
+    "OutageCountMAX": 9,
+    "OutageCountAVG": 9
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d50a1b"
+    },
+    "UtilityName": "Heart of Texas Electric Cooperative",
+    "CountyName": "Bosque",
+    "FullFIPSid": "48035",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1325,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d50a9a"
+    },
+    "UtilityName": "Heart of Texas Electric Cooperative",
+    "CountyName": "Coryell",
+    "FullFIPSid": "48099",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2777,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d50b98"
+    },
+    "UtilityName": "Heart of Texas Electric Cooperative",
+    "CountyName": "Hamilton",
+    "FullFIPSid": "48193",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 98,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d50d87"
+    },
+    "UtilityName": "HILCO Electric Cooperative",
+    "CountyName": "Dallas",
+    "FullFIPSid": "48113",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8277,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d50e78"
+    },
+    "UtilityName": "HILCO Electric Cooperative",
+    "CountyName": "Ellis",
+    "FullFIPSid": "48139",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 14768,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d5123c"
+    },
+    "UtilityName": "Houston County Electric Cooperative",
+    "CountyName": "Anderson",
+    "FullFIPSid": "48001",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3333,
+    "OutageCountMAX": 141,
+    "OutageCountAVG": 130
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d5132d"
+    },
+    "UtilityName": "Houston County Electric Cooperative",
+    "CountyName": "Angelina",
+    "FullFIPSid": "48005",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 302,
+    "OutageCountMAX": 299,
+    "OutageCountAVG": 299
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d5150f"
+    },
+    "UtilityName": "Houston County Electric Cooperative",
+    "CountyName": "Freestone",
+    "FullFIPSid": "48161",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 76,
+    "OutageCountMAX": 48,
+    "OutageCountAVG": 48
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d51600"
+    },
+    "UtilityName": "Houston County Electric Cooperative",
+    "CountyName": "Houston",
+    "FullFIPSid": "48225",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8914,
+    "OutageCountMAX": 3231,
+    "OutageCountAVG": 3230
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d519c4"
+    },
+    "UtilityName": "Houston County Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 43,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d51ab5"
+    },
+    "UtilityName": "Houston County Electric Cooperative",
+    "CountyName": "Walker",
+    "FullFIPSid": "48471",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 289,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 2
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d51ba6"
+    },
+    "UtilityName": "Kerrville Public Utility",
+    "CountyName": "Kerr",
+    "FullFIPSid": "48265",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 23220,
+    "OutageCountMAX": 11,
+    "OutageCountAVG": 11
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d51c97"
+    },
+    "UtilityName": "Lamb County Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 11558,
+    "OutageCountMAX": 11,
+    "OutageCountAVG": 10
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d51e79"
+    },
+    "UtilityName": "Lubbock Power & Light System",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3416,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d5205b"
+    },
+    "UtilityName": "Lyntegar Electric Cooperative",
+    "CountyName": "Borden",
+    "FullFIPSid": "48033",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 739,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d5223d"
+    },
+    "UtilityName": "Lyntegar Electric Cooperative",
+    "CountyName": "Crosby",
+    "FullFIPSid": "48107",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 0,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834867d1d87f2268d52601"
+    },
+    "UtilityName": "Lyntegar Electric Cooperative",
+    "CountyName": "Hockley",
+    "FullFIPSid": "48219",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3531,
+    "OutageCountMAX": 102,
+    "OutageCountAVG": 102
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d528d4"
+    },
+    "UtilityName": "Lyntegar Electric Cooperative",
+    "CountyName": "Lynn",
+    "FullFIPSid": "48305",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4176,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d52ba7"
+    },
+    "UtilityName": "Lyntegar Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d52d89"
+    },
+    "UtilityName": "Magic Valley Electric Cooperative",
+    "CountyName": "Brooks",
+    "FullFIPSid": "48047",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d5314d"
+    },
+    "UtilityName": "Magic Valley Electric Cooperative",
+    "CountyName": "Kenedy",
+    "FullFIPSid": "48261",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 293,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d5332f"
+    },
+    "UtilityName": "Magic Valley Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2230,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d536f3"
+    },
+    "UtilityName": "Medina Electric Cooperative",
+    "CountyName": "Brooks",
+    "FullFIPSid": "48047",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1989,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d538d5"
+    },
+    "UtilityName": "Medina Electric Cooperative",
+    "CountyName": "Duval",
+    "FullFIPSid": "48131",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 102,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d53c99"
+    },
+    "UtilityName": "Medina Electric Cooperative",
+    "CountyName": "Kinney",
+    "FullFIPSid": "48271",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 410,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d5405d"
+    },
+    "UtilityName": "Medina Electric Cooperative",
+    "CountyName": "Real",
+    "FullFIPSid": "48385",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 722,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d5423f"
+    },
+    "UtilityName": "Medina Electric Cooperative",
+    "CountyName": "Uvalde",
+    "FullFIPSid": "48463",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3542,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d54421"
+    },
+    "UtilityName": "Medina Electric Cooperative",
+    "CountyName": "Zapata",
+    "FullFIPSid": "48505",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1285,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d54603"
+    },
+    "UtilityName": "Mid-South Synergy",
+    "CountyName": "Brazos",
+    "FullFIPSid": "48041",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 919,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d546f4"
+    },
+    "UtilityName": "Mid-South Synergy",
+    "CountyName": "Grimes",
+    "FullFIPSid": "48185",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 16036,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d548d6"
+    },
+    "UtilityName": "Mid-South Synergy",
+    "CountyName": "Montgomery",
+    "FullFIPSid": "48339",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 21046,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d549c7"
+    },
+    "UtilityName": "Mid-South Synergy",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 7583,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d54ab8"
+    },
+    "UtilityName": "Mid-South Synergy",
+    "CountyName": "Walker",
+    "FullFIPSid": "48471",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 11167,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d54d8b"
+    },
+    "UtilityName": "Navasota Valley Electric Coop",
+    "CountyName": "Brazos",
+    "FullFIPSid": "48041",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 124,
+    "OutageCountMAX": 82,
+    "OutageCountAVG": 82
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d54f6d"
+    },
+    "UtilityName": "Navasota Valley Electric Coop",
+    "CountyName": "Freestone",
+    "FullFIPSid": "48161",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3758,
+    "OutageCountMAX": 1221,
+    "OutageCountAVG": 1144
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d55240"
+    },
+    "UtilityName": "Navasota Valley Electric Coop",
+    "CountyName": "Limestone",
+    "FullFIPSid": "48293",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 9610,
+    "OutageCountMAX": 2703,
+    "OutageCountAVG": 2699
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d55604"
+    },
+    "UtilityName": "Navasota Valley Electric Coop",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 7038,
+    "OutageCountMAX": 314,
+    "OutageCountAVG": 314
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d557e6"
+    },
+    "UtilityName": "New Braunfels Utilities",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1312,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d559c8"
+    },
+    "UtilityName": "North Plains Electric Cooperative",
+    "CountyName": "Hansford",
+    "FullFIPSid": "48195",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2042,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d55f6e"
+    },
+    "UtilityName": "North Plains Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 692,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d5605f"
+    },
+    "UtilityName": "North Plains Electric Cooperative",
+    "CountyName": "Wheeler",
+    "FullFIPSid": "48483",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 48,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d56150"
+    },
+    "UtilityName": "Nueces Electric Cooperative",
+    "CountyName": "Duval",
+    "FullFIPSid": "48131",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3920,
+    "OutageCountMAX": 101,
+    "OutageCountAVG": 101
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d56332"
+    },
+    "UtilityName": "Nueces Electric Cooperative",
+    "CountyName": "Kenedy",
+    "FullFIPSid": "48261",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 850,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d56514"
+    },
+    "UtilityName": "Nueces Electric Cooperative",
+    "CountyName": "Live Oak",
+    "FullFIPSid": "48297",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 924,
+    "OutageCountMAX": 31,
+    "OutageCountAVG": 31
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d566f6"
+    },
+    "UtilityName": "Nueces Electric Cooperative",
+    "CountyName": "Nueces",
+    "FullFIPSid": "48355",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8988,
+    "OutageCountMAX": 13,
+    "OutageCountAVG": 13
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d567e7"
+    },
+    "UtilityName": "Nueces Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 107,
+    "OutageCountMAX": 65,
+    "OutageCountAVG": 65
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d568d8"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Anderson",
+    "FullFIPSid": "48001",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 17433,
+    "OutageCountMAX": 309,
+    "OutageCountAVG": 309
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d56aba"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Angelina",
+    "FullFIPSid": "48005",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 42323,
+    "OutageCountMAX": 1621,
+    "OutageCountAVG": 1621
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d56c9c"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Bastrop",
+    "FullFIPSid": "48021",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4483,
+    "OutageCountMAX": 213,
+    "OutageCountAVG": 213
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d56f6f"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Borden",
+    "FullFIPSid": "48033",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 650,
+    "OutageCountMAX": 35,
+    "OutageCountAVG": 35
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d57060"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Bosque",
+    "FullFIPSid": "48035",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 7,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d57151"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Bowie",
+    "FullFIPSid": "48037",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d57242"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Brazos",
+    "FullFIPSid": "48041",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d57333"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Brown",
+    "FullFIPSid": "48049",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 18691,
+    "OutageCountMAX": 564,
+    "OutageCountAVG": 564
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d579ca"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Coleman",
+    "FullFIPSid": "48083",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 11,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d57c9d"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Concho",
+    "FullFIPSid": "48095",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 928,
+    "OutageCountMAX": 27,
+    "OutageCountAVG": 27
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d57e7f"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Coryell",
+    "FullFIPSid": "48099",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 15914,
+    "OutageCountMAX": 3119,
+    "OutageCountAVG": 3119
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d58425"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Delta",
+    "FullFIPSid": "48119",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1987,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d587e9"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Ellis",
+    "FullFIPSid": "48139",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 64758,
+    "OutageCountMAX": 3317,
+    "OutageCountAVG": 3317
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d588da"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Erath",
+    "FullFIPSid": "48143",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 12621,
+    "OutageCountMAX": 368,
+    "OutageCountAVG": 368
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d58abc"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Fannin",
+    "FullFIPSid": "48147",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8690,
+    "OutageCountMAX": 404,
+    "OutageCountAVG": 404
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d58c9e"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Franklin",
+    "FullFIPSid": "48159",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d58d8f"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Freestone",
+    "FullFIPSid": "48161",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 7938,
+    "OutageCountMAX": 219,
+    "OutageCountAVG": 219
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d59335"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Hamilton",
+    "FullFIPSid": "48193",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834868d1d87f2268d599cc"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Houston",
+    "FullFIPSid": "48225",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6510,
+    "OutageCountMAX": 41,
+    "OutageCountAVG": 41
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d59c9f"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Irion",
+    "FullFIPSid": "48235",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 64,
+    "OutageCountMAX": 7,
+    "OutageCountAVG": 7
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d59d90"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Jack",
+    "FullFIPSid": "48237",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2706,
+    "OutageCountMAX": 231,
+    "OutageCountAVG": 231
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d59e81"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Jasper",
+    "FullFIPSid": "48241",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5a336"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Lampasas",
+    "FullFIPSid": "48281",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 595,
+    "OutageCountMAX": 236,
+    "OutageCountAVG": 236
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5a609"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Limestone",
+    "FullFIPSid": "48293",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8794,
+    "OutageCountMAX": 145,
+    "OutageCountAVG": 145
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5a7eb"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Lynn",
+    "FullFIPSid": "48305",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 528,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5a9cd"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Mason",
+    "FullFIPSid": "48319",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 13,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5af73"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Mills",
+    "FullFIPSid": "48333",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 250,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5b6fb"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Pecos",
+    "FullFIPSid": "48371",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 498,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5b9ce"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Reagan",
+    "FullFIPSid": "48383",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3790,
+    "OutageCountMAX": 348,
+    "OutageCountAVG": 348
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5bbb0"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Reeves",
+    "FullFIPSid": "48389",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 677,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 2
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5c065"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "San Saba",
+    "FullFIPSid": "48411",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1944,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 2
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5c247"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Shackelford",
+    "FullFIPSid": "48417",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 15,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 2
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5c338"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Shelby",
+    "FullFIPSid": "48419",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5c6fc"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Sterling",
+    "FullFIPSid": "48431",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 165,
+    "OutageCountMAX": 14,
+    "OutageCountAVG": 14
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5ce84"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Tyler",
+    "FullFIPSid": "48457",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5d066"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Upton",
+    "FullFIPSid": "48461",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1603,
+    "OutageCountMAX": 93,
+    "OutageCountAVG": 93
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5d157"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Van Zandt",
+    "FullFIPSid": "48467",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 12977,
+    "OutageCountMAX": 425,
+    "OutageCountAVG": 425
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5d248"
+    },
+    "UtilityName": "Oncor",
+    "CountyName": "Walker",
+    "FullFIPSid": "48471",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5dac1"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Bastrop",
+    "FullFIPSid": "48021",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5e249"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Coryell",
+    "FullFIPSid": "48099",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 76,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5e42b"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Galveston",
+    "FullFIPSid": "48167",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 2
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5e60d"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Gonzales",
+    "FullFIPSid": "48177",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5e6fe"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Harris",
+    "FullFIPSid": "48201",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5eac2"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Kendall",
+    "FullFIPSid": "48259",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4343,
+    "OutageCountMAX": 415,
+    "OutageCountAVG": 415
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5ebb3"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Kerr",
+    "FullFIPSid": "48265",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 448,
+    "OutageCountMAX": 50,
+    "OutageCountAVG": 50
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5ed95"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Kinney",
+    "FullFIPSid": "48271",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 22,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5ee86"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Lampasas",
+    "FullFIPSid": "48281",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3851,
+    "OutageCountMAX": 958,
+    "OutageCountAVG": 958
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5f068"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Live Oak",
+    "FullFIPSid": "48297",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5f24a"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Mason",
+    "FullFIPSid": "48319",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 67,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5f60e"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Nueces",
+    "FullFIPSid": "48355",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5f6ff"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Real",
+    "FullFIPSid": "48385",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 219,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 2
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5f8e1"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "San Saba",
+    "FullFIPSid": "48411",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5fca5"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Titus",
+    "FullFIPSid": "48449",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d5fe87"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d6015a"
+    },
+    "UtilityName": "Pedernales Electric Cooperative",
+    "CountyName": "Zapata",
+    "FullFIPSid": "48505",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d607f1"
+    },
+    "UtilityName": "Rita Blanca Electric Cooperative",
+    "CountyName": "Hansford",
+    "FullFIPSid": "48195",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 112,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "61834869d1d87f2268d608e2"
+    },
+    "UtilityName": "Rita Blanca Electric Cooperative",
+    "CountyName": "Hartley",
+    "FullFIPSid": "48205",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1992,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6124c"
+    },
+    "UtilityName": "Rusk County Electric Cooperative",
+    "CountyName": "Shelby",
+    "FullFIPSid": "48419",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1548,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6133d"
+    },
+    "UtilityName": "Rusk County Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 73360,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6142e"
+    },
+    "UtilityName": "Sam Houston Electric Cooperative",
+    "CountyName": "Angelina",
+    "FullFIPSid": "48005",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1682,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d61610"
+    },
+    "UtilityName": "Sam Houston Electric Cooperative",
+    "CountyName": "Jasper",
+    "FullFIPSid": "48241",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 42,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d617f2"
+    },
+    "UtilityName": "Sam Houston Electric Cooperative",
+    "CountyName": "Montgomery",
+    "FullFIPSid": "48339",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 13334,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d61bb6"
+    },
+    "UtilityName": "Sam Houston Electric Cooperative",
+    "CountyName": "Tyler",
+    "FullFIPSid": "48457",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6168,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d61ca7"
+    },
+    "UtilityName": "Sam Houston Electric Cooperative",
+    "CountyName": "Walker",
+    "FullFIPSid": "48471",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3545,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d61e89"
+    },
+    "UtilityName": "San Bernard Electric Cooperative",
+    "CountyName": "Colorado",
+    "FullFIPSid": "48089",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8654,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6206b"
+    },
+    "UtilityName": "San Bernard Electric Cooperative",
+    "CountyName": "Grimes",
+    "FullFIPSid": "48185",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 507,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6215c"
+    },
+    "UtilityName": "San Bernard Electric Cooperative",
+    "CountyName": "Harris",
+    "FullFIPSid": "48201",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 420,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6233e"
+    },
+    "UtilityName": "San Bernard Electric Cooperative",
+    "CountyName": "Montgomery",
+    "FullFIPSid": "48339",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3906,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6242f"
+    },
+    "UtilityName": "San Bernard Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 248,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d629d5"
+    },
+    "UtilityName": "San Patricio Electric Cooperative",
+    "CountyName": "Live Oak",
+    "FullFIPSid": "48297",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3387,
+    "OutageCountMAX": 99,
+    "OutageCountAVG": 99
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d62bb7"
+    },
+    "UtilityName": "San Patricio Electric Cooperative",
+    "CountyName": "Nueces",
+    "FullFIPSid": "48355",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2602,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d62d99"
+    },
+    "UtilityName": "San Patricio Electric Cooperative",
+    "CountyName": "San Patricio",
+    "FullFIPSid": "48409",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2615,
+    "OutageCountMAX": 174,
+    "OutageCountAVG": 173
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d62e8a"
+    },
+    "UtilityName": "San Patricio Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 293,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6306c"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Borden",
+    "FullFIPSid": "48033",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 102,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6315d"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Brown",
+    "FullFIPSid": "48049",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 233,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6324e"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Coleman",
+    "FullFIPSid": "48083",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6333f"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Collin",
+    "FullFIPSid": "48085",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 192,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d63430"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Concho",
+    "FullFIPSid": "48095",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 872,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d63703"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Fannin",
+    "FullFIPSid": "48147",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 7,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d63ca9"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Irion",
+    "FullFIPSid": "48235",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d63e8b"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Mason",
+    "FullFIPSid": "48319",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6424f"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Mills",
+    "FullFIPSid": "48333",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 25,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d64522"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Reagan",
+    "FullFIPSid": "48383",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 183,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d64613"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "San Saba",
+    "FullFIPSid": "48411",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 299,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d647f5"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Sterling",
+    "FullFIPSid": "48431",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 12,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d649d7"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 89,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d64ac8"
+    },
+    "UtilityName": "Sharyland",
+    "CountyName": "Upton",
+    "FullFIPSid": "48461",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 319,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d64bb9"
+    },
+    "UtilityName": "Southwest Arkansas Electric Cooperative",
+    "CountyName": "Bowie",
+    "FullFIPSid": "48037",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1081,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d652f8"
+    },
+    "UtilityName": "Southwest Texas Electric Cooperative",
+    "CountyName": "164",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 725,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d6534c"
+    },
+    "UtilityName": "Southwest Texas Electric Cooperative",
+    "CountyName": "186",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 586,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d653f4"
+    },
+    "UtilityName": "Southwest Texas Electric Cooperative",
+    "CountyName": "207",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2235,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d65785"
+    },
+    "UtilityName": "Southwest Texas Electric Cooperative",
+    "CountyName": "Concho",
+    "FullFIPSid": "48095",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4,
+    "OutageCountMAX": 3,
+    "OutageCountAVG": 2
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d65a58"
+    },
+    "UtilityName": "Southwest Texas Electric Cooperative",
+    "CountyName": "Irion",
+    "FullFIPSid": "48235",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 431,
+    "OutageCountMAX": 85,
+    "OutageCountAVG": 56
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d65c3a"
+    },
+    "UtilityName": "Southwest Texas Electric Cooperative",
+    "CountyName": "Pecos",
+    "FullFIPSid": "48371",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 586,
+    "OutageCountMAX": 93,
+    "OutageCountAVG": 62
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d65d2b"
+    },
+    "UtilityName": "Southwest Texas Electric Cooperative",
+    "CountyName": "Reagan",
+    "FullFIPSid": "48383",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1267,
+    "OutageCountMAX": 101,
+    "OutageCountAVG": 67
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d661e0"
+    },
+    "UtilityName": "Southwest Texas Electric Cooperative",
+    "CountyName": "Upton",
+    "FullFIPSid": "48461",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 88,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d663c2"
+    },
+    "UtilityName": "Southwestern Electric Power Co",
+    "CountyName": "Bowie",
+    "FullFIPSid": "48037",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 32164,
+    "OutageCountMAX": 14,
+    "OutageCountAVG": 12
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d66968"
+    },
+    "UtilityName": "Southwestern Electric Power Co",
+    "CountyName": "Franklin",
+    "FullFIPSid": "48159",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4253,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d672d2"
+    },
+    "UtilityName": "Southwestern Electric Power Co",
+    "CountyName": "Shelby",
+    "FullFIPSid": "48419",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4004,
+    "OutageCountMAX": 1994,
+    "OutageCountAVG": 1993
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d674b4"
+    },
+    "UtilityName": "Southwestern Electric Power Co",
+    "CountyName": "Titus",
+    "FullFIPSid": "48449",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 7690,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d67696"
+    },
+    "UtilityName": "Southwestern Electric Power Co",
+    "CountyName": "Van Zandt",
+    "FullFIPSid": "48467",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2272,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d67787"
+    },
+    "UtilityName": "Southwestern Electric Power Co",
+    "CountyName": "Wheeler",
+    "FullFIPSid": "48483",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1608,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d67a5a"
+    },
+    "UtilityName": "Swisher Electric Cooperative",
+    "CountyName": "Briscoe",
+    "FullFIPSid": "48045",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 862,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486ad1d87f2268d680f1"
+    },
+    "UtilityName": "Taylor Electric Cooperative",
+    "CountyName": "Coleman",
+    "FullFIPSid": "48083",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d685a6"
+    },
+    "UtilityName": "Taylor Electric Cooperative",
+    "CountyName": "Runnels",
+    "FullFIPSid": "48399",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d68697"
+    },
+    "UtilityName": "Taylor Electric Cooperative",
+    "CountyName": "Shackelford",
+    "FullFIPSid": "48417",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 929,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d68879"
+    },
+    "UtilityName": "Taylor Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 615,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d68a5b"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Bosque",
+    "FullFIPSid": "48035",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5789,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d68d2e"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Collin",
+    "FullFIPSid": "48085",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6638,
+    "OutageCountMAX": 314,
+    "OutageCountAVG": 313
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d68f10"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Coryell",
+    "FullFIPSid": "48099",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3274,
+    "OutageCountMAX": 1085,
+    "OutageCountAVG": 254
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d69001"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Dallas",
+    "FullFIPSid": "48113",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 33,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d691e3"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Erath",
+    "FullFIPSid": "48143",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 91,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d692d4"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Fannin",
+    "FullFIPSid": "48147",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1980,
+    "OutageCountMAX": 1,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d693c5"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Galveston",
+    "FullFIPSid": "48167",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 55980,
+    "OutageCountMAX": 4260,
+    "OutageCountAVG": 2215
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d695a7"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Hamilton",
+    "FullFIPSid": "48193",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2699,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6996b"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Jack",
+    "FullFIPSid": "48237",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 615,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d69f11"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Pecos",
+    "FullFIPSid": "48371",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3439,
+    "OutageCountMAX": 344,
+    "OutageCountAVG": 344
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6a1e4"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Reeves",
+    "FullFIPSid": "48389",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5918,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6a699"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Titus",
+    "FullFIPSid": "48449",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 418,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6a78a"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 321,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6a87b"
+    },
+    "UtilityName": "Texas New Mexico Power",
+    "CountyName": "Van Zandt",
+    "FullFIPSid": "48467",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 44,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6b1e5"
+    },
+    "UtilityName": "Tri-County Electric Cooperative",
+    "CountyName": "Hansford",
+    "FullFIPSid": "48195",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 88,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6b4b8"
+    },
+    "UtilityName": "Tri-County Electric Cooperative",
+    "CountyName": "Jack",
+    "FullFIPSid": "48237",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1498,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6ba5e"
+    },
+    "UtilityName": "Tri-County Electric Cooperative",
+    "CountyName": "Stonewall",
+    "FullFIPSid": "48433",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6bd31"
+    },
+    "UtilityName": "Tri-County Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 824,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6c0f5"
+    },
+    "UtilityName": "Trinity Valley Electric Cooperative",
+    "CountyName": "Anderson",
+    "FullFIPSid": "48001",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 4033,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6c1e6"
+    },
+    "UtilityName": "Trinity Valley Electric Cooperative",
+    "CountyName": "Dallas",
+    "FullFIPSid": "48113",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 516,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6c5aa"
+    },
+    "UtilityName": "Trinity Valley Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 11,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6c69b"
+    },
+    "UtilityName": "Trinity Valley Electric Cooperative",
+    "CountyName": "Van Zandt",
+    "FullFIPSid": "48467",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 9570,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6c78c"
+    },
+    "UtilityName": "United Cooperative Services",
+    "CountyName": "Bosque",
+    "FullFIPSid": "48035",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 3574,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6c96e"
+    },
+    "UtilityName": "United Cooperative Services",
+    "CountyName": "Coryell",
+    "FullFIPSid": "48099",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6cb50"
+    },
+    "UtilityName": "United Cooperative Services",
+    "CountyName": "Ellis",
+    "FullFIPSid": "48139",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 591,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6cc41"
+    },
+    "UtilityName": "United Cooperative Services",
+    "CountyName": "Erath",
+    "FullFIPSid": "48143",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 6298,
+    "OutageCountMAX": 2,
+    "OutageCountAVG": 1
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6cd32"
+    },
+    "UtilityName": "United Cooperative Services",
+    "CountyName": "Hamilton",
+    "FullFIPSid": "48193",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 559,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6cf14"
+    },
+    "UtilityName": "United Cooperative Services",
+    "CountyName": "Jack",
+    "FullFIPSid": "48237",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6d4ba"
+    },
+    "UtilityName": "United Cooperative Services",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 20,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6de24"
+    },
+    "UtilityName": "Upshur Rural Electric Cooperative Corporation",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 7,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6e0f7"
+    },
+    "UtilityName": "Wharton County Electric Cooperative",
+    "CountyName": "Colorado",
+    "FullFIPSid": "48089",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 508,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6e1e8"
+    },
+    "UtilityName": "Wharton County Electric Cooperative",
+    "CountyName": "Jackson",
+    "FullFIPSid": "48239",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 21,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6e4bb"
+    },
+    "UtilityName": "Wharton County Electric Cooperative",
+    "CountyName": "Wharton",
+    "FullFIPSid": "48481",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5381,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6e87f"
+    },
+    "UtilityName": "Wise Electric Cooperative",
+    "CountyName": "Jack",
+    "FullFIPSid": "48237",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 593,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6eb52"
+    },
+    "UtilityName": "Wise Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 50,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6ee25"
+    },
+    "UtilityName": "Wood County Electric Cooperative",
+    "CountyName": "Franklin",
+    "FullFIPSid": "48159",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2995,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6f1e9"
+    },
+    "UtilityName": "Wood County Electric Cooperative",
+    "CountyName": "Titus",
+    "FullFIPSid": "48449",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 596,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486bd1d87f2268d6f2da"
+    },
+    "UtilityName": "Wood County Electric Cooperative",
+    "CountyName": "Unknown",
+    "FullFIPSid": "NULL",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 8,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486cd1d87f2268d6f4bc"
+    },
+    "UtilityName": "Wood County Electric Cooperative",
+    "CountyName": "Van Zandt",
+    "FullFIPSid": "48467",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 5498,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486cd1d87f2268d6f880"
+    },
+    "UtilityName": "Xcel Energy",
+    "CountyName": "Briscoe",
+    "FullFIPSid": "48045",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 486,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486cd1d87f2268d6fc44"
+    },
+    "UtilityName": "Xcel Energy",
+    "CountyName": "Crosby",
+    "FullFIPSid": "48107",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2876,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486cd1d87f2268d705ae"
+    },
+    "UtilityName": "Xcel Energy",
+    "CountyName": "Hansford",
+    "FullFIPSid": "48195",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2856,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486cd1d87f2268d7069f"
+    },
+    "UtilityName": "Xcel Energy",
+    "CountyName": "Hartley",
+    "FullFIPSid": "48205",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 2017,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486cd1d87f2268d70881"
+    },
+    "UtilityName": "Xcel Energy",
+    "CountyName": "Hockley",
+    "FullFIPSid": "48219",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 7892,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486cd1d87f2268d70d36"
+    },
+    "UtilityName": "Xcel Energy",
+    "CountyName": "Lynn",
+    "FullFIPSid": "48305",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1750,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  },{
+    "_id": {
+      "$oid": "6183486cd1d87f2268d71791"
+    },
+    "UtilityName": "Xcel Energy",
+    "CountyName": "Wheeler",
+    "FullFIPSid": "48483",
+    "RecordDateTime": {
+      "$date": "2021-02-18T20:00:00Z"
+    },
+    "TrackedCount": 1818,
+    "OutageCountMAX": 0,
+    "OutageCountAVG": 0
+  }]
